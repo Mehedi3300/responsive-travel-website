@@ -1,0 +1,58 @@
+*{
+    font-family: 'Merriweather', serif;
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.header{
+    text-align: center;
+    margin-top: 3.25rem;
+}
+.header img{
+    width: 3rem;
+    height: 3.5rem;
+}
+#title{
+    margin-top: 0rem;
+}
+.navbar-content{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-top: 3.25rem; */
+    text-align: center;
+}
+.site-name{
+    color: #131318;
+    font-size: 2.25rem;
+    font-weight: 800;
+    display: flex;
+    gap: 1rem;    
+}
+.travel{
+    color: #FF5400; 
+}
+.navbar-item{
+    display: flex;
+    gap: 2.75rem;
+    color: var(--Dark-02, #424247);
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.navbar-item li{
+    list-style-type: none;
+}
+.home{
+    color: #FF5400; 
+}
+.background{
+    background-image: linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%),url("../Images/Group\ 13\ \(1\)\ \(1\).png");
+    width: 1170px;
+    height: 500px;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
