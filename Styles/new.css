@@ -215,9 +215,23 @@ body{
 margin: 0 auto;
 }
 
+/* perfect place */
 
-
-
+.perfect{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.place-details{
+    color: #131318;
+    font-weight: 700;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+.place-video video{
+    border-radius: 16px;
+}
 
 
 
