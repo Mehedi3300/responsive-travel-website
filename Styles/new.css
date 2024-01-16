@@ -173,7 +173,7 @@ body{
     justify-content: space-evenly;
     margin-left: 110px;
     margin-right: 110px;
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
 }
 .srilanka{
     margin-left: 105px;
@@ -182,7 +182,45 @@ body{
 .kashmir{
     margin-right: 105px;
 }
+.name{
+    position: relative;
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 800;
+}
+.maldives{
+    bottom: 830px;
+    left:370px ;
+}
+.indonesia{
+    bottom: 890px;
+    left: 970px;
+}
+.sri{
+    bottom: 630px;
+    left:260px ;
+}
+.north{
+    bottom: 690px;
+    left: 670px;
+}
+.kash{
+    bottom: 740px;
+    left: 1110px;
 
+}
+.bd{
+    bottom: 480px;
+    left: 300px;
+}
+.bandar{
+    bottom: 530px;
+    left: 880px;
+}
+.location-name{
+    /* border: 2px solid tomato; */
+    height: 50px;
+}
 
 /* why choose */
 
