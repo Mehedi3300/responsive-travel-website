@@ -160,6 +160,8 @@ body{
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 25px;
+    margin-left: 110px;
+    margin-right: 110px;
 }
 .second-img{
     display: flex;
