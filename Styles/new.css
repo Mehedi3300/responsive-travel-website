@@ -152,7 +152,7 @@ body{
 
 .tours{
     display: flex;
-    margin: 100px auto 0;
+    margin: 100px auto 100px;
     justify-content: space-evenly;
 }
 
@@ -170,6 +170,53 @@ body{
 .tour-btn{
 
 }
+
+/* why choose */
+
+.why-choose{
+    text-align: center;
+}
+.choose{
+    width: 573px;
+    height: 284px; 
+    margin: 25px;
+    padding: 30px;
+}
+.choose img{
+    width: 64px;
+    height: 64px;
+    background: none;
+}
+.choose h3{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.hotel{
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);  
+    background: rgba(251, 181, 99, 0.05);  
+}
+.map{
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+}
+.price{
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+}
+.hotel-map{
+    display: flex ;
+    /* justify-content: center; */
+}
+#best-price{
+margin: 0 auto;
+}
+
+
+
 
 
 
