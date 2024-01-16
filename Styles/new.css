@@ -348,6 +348,30 @@ margin: 0 auto;
     cursor: pointer;
 }
 
+.sale{
+    width: 324px;
+    height: 120px;
+    text-align: center;
+    transform: rotate(-19.628deg);
+    border-radius: 16px;
+    background: #FF5400;
+    border: none;
+    padding: 5px 30px 30px;
+    position: relative;
+    left: 998px;
+    bottom: 215px;
+}
+.sale-des{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 400;
+}
+.percentage{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 800;
+    }
+
 /* FOOTER */
 
 .footer{
