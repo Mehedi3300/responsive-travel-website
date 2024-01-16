@@ -148,6 +148,42 @@ body{
 
 /* Choose destination */
 
+.choose-header{
+    text-align: center;
+}
+.choose-header p{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.first-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 25px;
+}
+.second-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+.third-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 100px;
+}
+.srilanka{
+    margin-left: 105px;
+}
+
+.kashmir{
+    margin-right: 105px;
+}
+
+
 /* why choose */
 
 .why-choose{
